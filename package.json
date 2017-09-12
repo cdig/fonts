@@ -1,0 +1,7 @@
+{
+  "name": "fonts",
+  "version": "4.1.0",
+  "description": "Fonts shared by cd-module and svga",
+  "license": "UNLICENSED",
+  "private": true
+}
