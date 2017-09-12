@@ -1,9 +1,0 @@
-@font-face {
-  font-family: "Architect's Daughter";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/architects-daughter/architects-daughter.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/architects-daughter/architects-daughter.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
-
-.architects-daughter { font-family: "Architect's Daughter"; }
