@@ -14,8 +14,8 @@
 
 @font-face {
   font-family: "Architect's Daughter";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/architects-daughter/architects-daughter.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/architects-daughter/architects-daughter.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/architects-daughter/architects-daughter.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/architects-daughter/architects-daughter.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -23,8 +23,8 @@
 /* Illustrator uses the wrong family name when exporting SVGs. */
 @font-face {
   font-family: "ArchitectsDaughter";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/architects-daughter/architects-daughter.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/architects-daughter/architects-daughter.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/architects-daughter/architects-daughter.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/architects-daughter/architects-daughter.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -37,7 +37,7 @@
 
 @font-face {
 	font-family: "Helsinki";
-	src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/helsinki/helsinki.woff");
+	src: url("https://d3gc444e269pac.cloudfront.net/fonts/helsinki/helsinki.woff");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -50,8 +50,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-black-italic.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-black-italic.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-black-italic.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-black-italic.woff") format("woff");
   font-weight: 900;
   font-style: italic;
 }
@@ -60,8 +60,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-black.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-black.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-black.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-black.woff") format("woff");
   font-weight: 900;
   font-style: normal;
 }
@@ -70,8 +70,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-bold-italic.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-bold-italic.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-bold-italic.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-bold-italic.woff") format("woff");
   font-weight: bold;
   font-style: italic;
 }
@@ -80,8 +80,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-bold.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-bold.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-bold.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
 }
@@ -90,8 +90,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-hairline-italic.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-hairline-italic.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-hairline-italic.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-hairline-italic.woff") format("woff");
   font-weight: 100;
   font-style: italic;
 }
@@ -100,8 +100,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-hairline.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-hairline.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-hairline.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-hairline.woff") format("woff");
   font-weight: 100;
   font-style: normal;
 }
@@ -110,8 +110,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-heavy-italic.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-heavy-italic.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-heavy-italic.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-heavy-italic.woff") format("woff");
   font-weight: 800;
   font-style: italic;
 }
@@ -120,8 +120,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-heavy.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-heavy.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-heavy.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-heavy.woff") format("woff");
   font-weight: 800;
   font-style: normal;
 }
@@ -130,8 +130,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-italic.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-italic.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-italic.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-italic.woff") format("woff");
   font-weight: normal;
   font-style: italic;
 }
@@ -140,8 +140,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-light-italic.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-light-italic.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-light-italic.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-light-italic.woff") format("woff");
   font-weight: 300;
   font-style: italic;
 }
@@ -150,8 +150,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-light.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-light.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-light.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
 }
@@ -160,8 +160,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-medium-italic.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-medium-italic.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-medium-italic.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-medium-italic.woff") format("woff");
   font-weight: 500;
   font-style: italic;
 }
@@ -170,8 +170,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-medium.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-medium.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-medium.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
 }
@@ -180,8 +180,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-regular.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-regular.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-regular.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -191,8 +191,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-semibold-italic.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-semibold-italic.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-semibold-italic.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-semibold-italic.woff") format("woff");
   font-weight: 600;
   font-style: italic;
 }
@@ -201,8 +201,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-semibold.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-semibold.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-semibold.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-semibold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
 }
@@ -211,8 +211,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-thin-italic.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-thin-italic.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-thin-italic.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-thin-italic.woff") format("woff");
   font-weight: 200;
   font-style: italic;
 }
@@ -221,8 +221,8 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-thin.woff2") format("woff2"),
-       url("https://lunchboxsessions.s3.amazonaws.com/fonts/lato/lato-thin.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-thin.woff2") format("woff2"),
+       url("https://d3gc444e269pac.cloudfront.net/fonts/lato/lato-thin.woff") format("woff");
   font-weight: 200;
   font-style: normal;
 }
@@ -235,21 +235,21 @@
 
 @font-face {
 	font-family: "Quicksand";
-	src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/quicksand/quicksand-regular.woff");
+	src: url("https://d3gc444e269pac.cloudfront.net/fonts/quicksand/quicksand-regular.woff");
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "Quicksand";
-	src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/quicksand/quicksand-light.woff");
+	src: url("https://d3gc444e269pac.cloudfront.net/fonts/quicksand/quicksand-light.woff");
 	font-weight: 100;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "Quicksand";
-	src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/quicksand/quicksand-bold.woff");
+	src: url("https://d3gc444e269pac.cloudfront.net/fonts/quicksand/quicksand-bold.woff");
 	font-weight: bold;
 	font-style: normal;
 }
@@ -265,7 +265,7 @@
 
 @font-face {
   font-family: "Rock Salt";
-  src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/rock-salt/rock-salt.woff") format("woff");
+  src: url("https://d3gc444e269pac.cloudfront.net/fonts/rock-salt/rock-salt.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -281,14 +281,14 @@
 
 @font-face {
 	font-family: "Varela Round";
-	src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/varela-round/varela-round.woff") format("woff");
+	src: url("https://d3gc444e269pac.cloudfront.net/fonts/varela-round/varela-round.woff") format("woff");
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "Varela Round";
-	src: url("https://lunchboxsessions.s3.amazonaws.com/fonts/varela-round/varela-round.woff") format("woff");
+	src: url("https://d3gc444e269pac.cloudfront.net/fonts/varela-round/varela-round.woff") format("woff");
 	font-weight: bold;
 	font-style: normal;
 }
